@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**natachamdev/natachamdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨‍💻  Frontend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍  I'm based in Marrakech
+
+🖥️  Vist my Portfolio https://app.netlify.com/teams/natachamdev/sites
+
+🌱  I’m currently learning REACT , Data Base, MySQL
+
+💬  Ask me about Vue 
+
+✉️  You can reach me by email natachamdev@gmail.com
+
+
+
+
+
+
