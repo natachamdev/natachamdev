@@ -3,7 +3,7 @@
 
 👨‍💻  Frontend Developer
 
-🌍  I'm based in Marrakech
+🌍  I'm based in Argentina
 
 🖥️  Vist my Portfolio https://app.netlify.com/teams/natachamdev/sites
 
